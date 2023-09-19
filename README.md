@@ -1,4 +1,4 @@
-                                            T1 - Implementação do tipo de dado abstrato Set
+                                        T1 - Implementação do tipo de dado abstrato Set
 
     Para implementar um conjunto (set) como um tipo de dado abstrato, podemos utilizar duas estruturas de dados comumente eficientes para essa finalidade: hash set e 
     árvore binária de busca. Vamos abordar cada uma delas e justificar sua escolha, além de discutir a complexidade de tempo e espaço para cada operação.
