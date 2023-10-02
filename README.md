@@ -1,5 +1,6 @@
                                     T1 - Implementação do tipo de dado abstrato Set
-
+    Feito pelas alunas: Luana Roza e Geovanna Ribeiro
+    
     Tipos de Dados Abstratos (TDA) são modelos matemáticos que fazem o
     encapsulamento de um conjunto de elementos. O conjunto SET trata-se de uma
     estrutura de dados, mas também é um tipo de dado abstrato que armazena apenas
